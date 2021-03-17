@@ -73,3 +73,5 @@ Processing by PostsController#new as HTML
 Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/posts/new" for 173.77.183.241 at 2021-03-17 21:26:43 +0000
+Processing by PostsController#new as HTML
