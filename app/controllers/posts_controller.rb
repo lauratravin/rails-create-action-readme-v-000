@@ -16,6 +16,6 @@ class PostsController < ApplicationController
     post.title = "My post title"
     post.description = "Desc goes here..."
     post.save
-    redirect_to posts_path(@post)
+    redirect_to post_path(@post)
   end
 end

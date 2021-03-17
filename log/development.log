@@ -66,3 +66,10 @@ Processing by PostsController#index as HTML
 Completed 200 OK in 13ms (Views: 10.7ms | ActiveRecord: 0.6ms)
 
 
+Started GET "/posts/new" for 173.77.183.241 at 2021-03-17 21:26:34 +0000
+Processing by PostsController#new as HTML
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/new.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+
+
